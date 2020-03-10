@@ -1,0 +1,25 @@
+{
+  "name": "http-methods-constants",
+  "version": "1.0.0",
+  "description": "HTTP methods as constants",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avivharuzi/http-methods-constants.git"
+  },
+  "keywords": [
+    "http",
+    "node",
+    "methods",
+    "constants"
+  ],
+  "author": "Aviv Haruzi <avivharuzi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avivharuzi/http-methods-constants/issues"
+  },
+  "homepage": "https://github.com/avivharuzi/http-methods-constants#readme"
+}
