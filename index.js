@@ -32,5 +32,5 @@ module.exports = Object.freeze({
   PUT: 'PUT',
   SEARCH: 'SEARCH',
   TRACE: 'TRACE',
-  UNLOCK: 'UNLOCK'
+  UNLOCK: 'UNLOCK',
 });
